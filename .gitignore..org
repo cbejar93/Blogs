@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-node_modules
-nohup.out
-.DS_Store
-=======
 # Logs
 logs
 *.log
@@ -64,4 +59,3 @@ typings/
 
 # next.js build output
 .next
->>>>>>> 2d149cd666046f4112b33e23dc291ce16e56aabc
